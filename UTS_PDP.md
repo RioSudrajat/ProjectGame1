@@ -26,6 +26,7 @@ Menghindari Tugas
 Sebagai | Saya Ingin Bisa | Sehingga | Prioritas
 ---|---|---|---
 Player | Berjalan menghindari tugas | kita tak benar benar bisa menghindarinya | ⭐⭐⭐⭐⭐
+Kalkulus| berjalan random dengan cara memantul dengan jendela| bisa mengenai player| ⭐⭐⭐⭐⭐
 
 ## 5. Desain User Interface
 ![Screenshot (94)](https://github.com/RioSudrajat/ProjectGame1/assets/144890893/f151a85b-fcc7-4bca-82d5-76bad203b988)
