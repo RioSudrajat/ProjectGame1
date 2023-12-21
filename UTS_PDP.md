@@ -57,7 +57,7 @@ flowchart TD
 
 ## 8. Link folder kode pemrograman dari game
 
-[In Progress]
+[https://github.com/RioSudrajat/ProjectGame1/tree/main/Project%20Game-Menghindari%20tugas]
 
 
 ## 9. Game menerapkan prinsip-prinsip dasar pemrograman seperti
