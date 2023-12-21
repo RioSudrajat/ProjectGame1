@@ -1,8 +1,10 @@
 # GAME "Menghindari Tugas"
 ## 1. Latar Belakang 
 <p>
-    Game merupakan media hiburan yang dapat digunakan untuk setiap orang dan dapat digunakan untuk menghilangkan rasa jenuh. Dalam projek ini saya membuat game yang bernama Menghindari Tugas. Jadi game ini adalah seseorang 
-  yang mencoba untuk menghindari tugas yang berdatangan secara terus memnerus
+    Game merupakan media hiburan yang dapat digunakan untuk setiap orang dan dapat digunakan untuk menghilangkan rasa jenuh. Dalam projek ini saya membuat game yang bernama Menghindari Tugas. Jadi game ini adalah seseorang yang mencoba untuk menghindari tugas yang berdatangan secara terus memnerus
+</p>
+<p>
+    Game ini saya buat atas keresahan saya sendiri dengan kondisi dimana kebanyakan orang memilih untuk menghindari masalah dari pada menghadapinya. padahal jika kita sadar, sejak kita lahir, kita memang dibentuk untuk selalu menjadi seorang pembelajar, dari saat dilahirkan hingga akhir hayat. jadi game ini memiliki makna tersembunyi yaitu untuk menyadarkan setiap player yang memainkannya bahwa masalah akan terus mendatangi kita dan hal yang bijak bagi kita sendiri ialah menghadapinya. jika bisa mengutip perkataan seseorang, maka kata kata tan malaka ini adalah kata yang paling tepat " terbentur, terbentur, terbentuk."  
 </p>
 
 ## 2. Deskripsi 
@@ -26,8 +28,12 @@ Menghindari Tugas
 Sebagai | Saya Ingin Bisa | Sehingga | Prioritas
 ---|---|---|---
 Player | Berjalan menghindari tugas | kita tak benar benar bisa menghindarinya | ⭐⭐⭐⭐⭐
-Kalkulus| berjalan random dengan cara memantul dengan jendela| bisa mengenai player| ⭐⭐⭐⭐⭐
-
+TugasFisdas| muncul dengan random bergerak cara memantul didalam jendela permainan| bisa mengurangi darah player| ⭐⭐⭐⭐⭐
+TugasKalkulus| muncul dengan random lalu bergerak lebih cepat dengan cara memantul didalam jendela permainnan | bisa mengurangi darah player | ⭐⭐⭐⭐⭐
+Laprak | muncul dengan cara random lalu bergerak mengejar playedr saat player memasuki jarak tertentu | bisa mengejar dan mengurangi darah player | ⭐⭐⭐⭐⭐
+TugasDaspro | muncul dengan cara random lalu bergerak menyerupai gelombang dimana saat memantul ke bawah ia akan meningkatkan kecepatan, namun saat sudah mencapai ketinggian tertentu dia akan mengurangi kesepatan | bisa mengurangi darah player | ⭐⭐⭐⭐⭐
+DosenUnexpectedMove | muncul dari ajas jendela degan ukuran yg lebih besar, kemudian bergerak kekanan ataupun kekiri lalu bisa menembakkan peluru(tugas) dan sebagai musuh terakhir | bisa membuat player kewalahan | ⭐⭐⭐⭐⭐
+Tugas daspro | menjadi peluru dari DosenUnexpectedMove | bisa mengurangi darah player | ⭐⭐⭐⭐⭐
 ## 5. Desain User Interface
 ![Screenshot (94)](https://github.com/RioSudrajat/ProjectGame1/assets/144890893/f151a85b-fcc7-4bca-82d5-76bad203b988)
 
@@ -38,10 +44,11 @@ Kalkulus| berjalan random dengan cara memantul dengan jendela| bisa mengenai pla
 ```mermaid
 flowchart TD
     A[Mulai] <-->B[Menghindari Tugas]
-    B <--> C[Gangguan Di keroyok tugas]
+    B <--> C[Gangguan Dikerumuni tugas]
     C <--> D[Terkena tugas maka darah berkurang]
-    D <--> E[Darah Habis]
-    E <--> F[Permainan selesai]
+    D <--> E[DosenUnexpectedMove sebagai boss terakhir]
+    E <--> F[Darah Habis]
+    F <--> G[Permainan selesai]
 ```
 
 ## 7. Link demo game di youtube
