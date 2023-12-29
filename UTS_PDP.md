@@ -71,3 +71,14 @@ flowchart TD
    - Array
    - Method
    - Class
+
+## 10. Game yang dihasilkan
+![Screenshot (110)](https://github.com/RioSudrajat/ProjectGame1/assets/144890893/39706e4c-ebde-42be-8ed8-41d70de4307d)
+![Screenshot (111)](https://github.com/RioSudrajat/ProjectGame1/assets/144890893/f4fdfaf5-da88-42aa-9ab4-bfa5244531a1)
+![Screenshot (112)](https://github.com/RioSudrajat/ProjectGame1/assets/144890893/95fdb5d4-1648-46d5-9aea-7efd0e245cdd)
+![Screenshot (114)](https://github.com/RioSudrajat/ProjectGame1/assets/144890893/e012e579-224c-4d04-955f-2beae5ea87b6)
+![Screenshot (116)](https://github.com/RioSudrajat/ProjectGame1/assets/144890893/ae91936a-b4ad-422a-b7ac-25168bcc7e3b)
+
+
+
+
